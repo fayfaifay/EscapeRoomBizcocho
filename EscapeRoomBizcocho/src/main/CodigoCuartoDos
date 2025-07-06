@@ -2,7 +2,7 @@ package main;
 
 import utilitarios.Utils;
 
-public class EscapeRoom {
+public class CodigoCuartoDos {
   public static void main(String[] args) {
     Utils.limpiarConsola();
 
